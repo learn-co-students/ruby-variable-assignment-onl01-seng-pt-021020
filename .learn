@@ -1,7 +1,6 @@
-tags:
+requittags:
   - variable assignment
   - variables
 languages:
   - ruby
 resources: 2
-
