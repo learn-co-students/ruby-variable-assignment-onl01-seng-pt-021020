@@ -3,7 +3,7 @@
  
  
  greeting = "Hello World"
-def greeting
-   puts greeting
-end 
-greeting
+# def greeting
+#   puts greeting
+# end 
+# greeting
